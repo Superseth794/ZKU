@@ -1,2 +1,5 @@
 # macos system files
 **.DS_STORE
+
+# Microsoft Word files
+**.docx
