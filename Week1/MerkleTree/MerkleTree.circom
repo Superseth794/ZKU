@@ -64,4 +64,4 @@ template MerkleTree (nbInputs) {
     merkleRoot <== hashingLeaves[nbInputs - 2].outs[0];
 }
 
-component main {public [leaves]} = MerkleTree(2);
+component main {public [leaves]} = MerkleTree(8);
