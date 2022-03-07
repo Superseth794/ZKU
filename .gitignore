@@ -3,3 +3,13 @@
 
 # Microsoft Word files
 **.docx
+
+# vscode files
+**/.vscode/
+
+# circom / snarkjs output files
+**/*_js/
+**/*_cpp/
+*.r1cs
+*.sym
+*.ptau
